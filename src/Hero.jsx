@@ -45,7 +45,7 @@ const Hero = ({ numJoke }) => {
         <img
           src={laugh}
           alt="laugh"
-          className="h-[40%] w-[40%] absolute top-0 right-0 translate-x-[20%] translate-y-[-30%] sm:h-40 sm:w-40 md:h-50 md:w-50 lg:h-60 lg:w-60"
+          className="h-10 w-10 absolute top-0 right-0 translate-x-[20%] translate-y-[-30%] sm:h-40 sm:w-40 md:h-50 md:w-50 lg:h-60 lg:w-60"
         />
         <img
           src={smile}

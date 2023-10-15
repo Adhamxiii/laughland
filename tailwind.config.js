@@ -8,7 +8,7 @@ export default {
       }
     },
     fontFamily:{
-      'comic' : ['Comic Sans MS', 'cursive'],
+      'comic' : ['Comic Neue', 'cursive'],
       'montserrat' : ['Montserrat', 'sans-serif'],
     }
   },
