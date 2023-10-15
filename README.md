@@ -24,7 +24,7 @@ LAUGHLAND is a React application designed to fetch jokes from an external API an
 
 To utilize the LAUGHLAND application, follow these straightforward steps:
 
-1. Visit the live app at [https://your-app-url.com](https://your-app-url.com).
+1. Visit the live app at [https://laughland.netlify.app/](https://laughland.netlify.app/).
 2. The app will display a default number of jokes (1 joke) upon loading.
 3. To modify the number of jokes displayed, simply input a number between 1 and 30 in the provided input field located in the footer.
 4. Enjoy the jokes and have a good laugh!
