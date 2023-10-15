@@ -59,7 +59,10 @@ const Hero = ({ numJoke }) => {
             <ul className="flex flex-col gap-10">
               {jokes.map((joke) => (
                 <>
-                  <li key={joke.id} className="font-comic text-stone-900 text-2xl">
+                  <li
+                    key={joke.id}
+                    className="font-comic text-stone-900 text-2xl"
+                  >
                     {joke.joke}
                   </li>
                   <hr className="w-full mx-auto my-0 border-2 border-stone-800" />
