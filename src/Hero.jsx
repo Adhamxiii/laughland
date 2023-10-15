@@ -41,16 +41,16 @@ const Hero = ({ numJoke }) => {
 
   return (
     <main className="w-full h-[calc(100vh-15rem)] flex justify-center items-center bg-gradient-radial">
-      <section className="w-[90%] h-[50%] bg-yellow-50  flex justify-center items-center flex-col px-[5%] rounded-[20px] relative md:w-[80%] md:px-[15%] lg:w-[70%] lg:px-[10%]">
+      <section className="w-[90%] h-[50%] bg-yellow-50  flex justify-center items-center flex-col px-[5%] drop-shadow-md rounded-[20px] relative md:w-[80%] md:px-[15%] lg:w-[70%] lg:px-[10%]">
         <img
           src={laugh}
           alt="laugh"
-          className="h-20 w-20 absolute top-0 right-0 translate-x-[20%] translate-y-[-30%] sm:h-40 sm:w-40 md:h-50 md:w-50 lg:h-60 lg:w-60"
+          className="h-20 w-20 absolute top-0 drop-shadow-md right-0 translate-x-[20%] translate-y-[-30%] sm:h-40 sm:w-40 md:h-50 md:w-50 lg:h-60 lg:w-60"
         />
         <img
           src={smile}
           alt="smile"
-          className="h-20 w-20 absolute left-0 bottom-0 translate-x-[-30%] translate-y-[20%] md:h-30 md:w-30 lg:h-50 lg:w-50"
+          className="h-20 w-20 absolute left-0 bottom-0 drop-shadow-md translate-x-[-30%] translate-y-[20%] md:h-30 md:w-30 lg:h-52 lg:w-52"
         />
         {isLoading ? (
           <Loading />
