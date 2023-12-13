@@ -14,7 +14,7 @@ LAUGHLAND is a React application designed to fetch jokes from an external API an
   - [API Information](#api-information)
   - [Technologies Used](#technologies-used)
   - [Contributing](#contributing)
-  - [Contact Information](#contact-information)
+  - [Contact Me](#contact-me)
 
 ## Screenshots
 
@@ -59,10 +59,11 @@ We welcome contributions to enhance the LAUGHLAND application. If you'd like to 
 
 Please ensure you follow our code of conduct and respect our contribution guidelines.
 
-## Contact Information
+Feel free to contribute to this project. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-If you have any questions or need assistance, you can reach out to the project author:
+## Contact Me
 
-- Email: [Adham Nasser](mailto:adhamxiii@gmail.com)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
+If you have any questions or suggestions, feel free to contact me:
+
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
